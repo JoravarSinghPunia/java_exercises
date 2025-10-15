@@ -14,8 +14,8 @@ public class Score {
 		playerBgameScore = "0";
 		
 		// remove these!
-		randomGameScore();
-		randomScore();
+//		randomGameScore();
+//		randomScore();
 	}
 	
 	public void nextSet() {
